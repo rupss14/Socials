@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328324886119",
+    "project_id": "socials-3b97a",
+    "storage_bucket": "socials-3b97a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328324886119:android:6e63e2e8ed159b1b016ec2",
+        "android_client_info": {
+          "package_name": "com.rupali.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzdnFNYP3WS3NsJG2W-ZINxXwQS1of4so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
